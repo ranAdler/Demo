@@ -3,3 +3,5 @@ target/
 .DS_Store
 *.class
 *.jar
+frontend/node_modules/
+frontend/dist/
